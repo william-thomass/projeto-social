@@ -62,15 +62,11 @@ section#redes-sociais img{
     
 }
 
-section a{
-    
-    display: list-item;
-    
-    
-}
+
 
 section#redes-sociais{
     text-align: right;
+    
     
     
 
@@ -80,6 +76,7 @@ section#redes-sociais img:hover{
     border:2px solid white;
     transform: translate(-3px,-3px);
     transition: transform 0.5s;
+
 
 }
 
